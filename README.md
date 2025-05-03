@@ -12,7 +12,7 @@ Date of Submission:
 ---
 
 ## 🔗 GitHub Repository
-This repository contains the code and documentation for the project titled **Emotion-Based Sentiment Analysis on Social Media Conversations**.
+This repository contains the code and documentation for the project titled **Emotion-Based Sentiment Analysis on Social Media Conversations.
 
 ---
 
